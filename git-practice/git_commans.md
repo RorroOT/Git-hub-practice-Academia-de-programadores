@@ -16,6 +16,6 @@ git add: Permite incluir cambios hechos en el siguiente commit
 
 git commit: Permite establecer un punto de control en proceso de desarrollo 
 
-git push:
+git push: Envía commits hechos al repositorio remoto
 
 git merge:

@@ -8,7 +8,7 @@ git pull: Se utiliza para recibir actualizaciones del repositorio remoto
 
 git checkout: Permite cambiar de una rama a otra
 
-git log:
+git log: Muestra el historial de commits hechos
 
 git branch:
 

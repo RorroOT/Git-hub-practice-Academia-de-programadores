@@ -14,7 +14,7 @@ git branch: Permite crear, listar y eliminar ramas
 
 git add: Permite incluir cambios hechos en el siguiente commit
 
-git commit:
+git commit: Permite establecer un punto de control en proceso de desarrollo 
 
 git push:
 

@@ -18,4 +18,4 @@ git commit: Permite establecer un punto de control en proceso de desarrollo
 
 git push: Envía commits hechos al repositorio remoto
 
-git merge:
+git merge: Permite fusionar ramas

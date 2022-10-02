@@ -10,7 +10,7 @@ git checkout: Permite cambiar de una rama a otra
 
 git log: Muestra el historial de commits hechos
 
-git branch:
+git branch: Permite crear, listar y eliminar ramas
 
 git add:
 

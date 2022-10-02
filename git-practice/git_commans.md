@@ -12,7 +12,7 @@ git log: Muestra el historial de commits hechos
 
 git branch: Permite crear, listar y eliminar ramas
 
-git add:
+git add: Permite incluir cambios hechos en el siguiente commit
 
 git commit:
 

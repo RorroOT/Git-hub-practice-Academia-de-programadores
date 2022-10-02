@@ -6,7 +6,7 @@ git clone: Permite clonar un repositorio remoto y lo guarda en el ordenador como
 
 git pull: Se utiliza para recibir actualizaciones del repositorio remoto
 
-git checkout:
+git checkout: Permite cambiar de una rama a otra
 
 git log:
 
